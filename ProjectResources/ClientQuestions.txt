@@ -1,0 +1,19 @@
+- Allow users to Select Courses that are from the database and inputed (catorgorize this by school... maybe by major)
+- Allow users to submit information about new courses and give marist the option to reivew them
+- 
+
+- Question about capturing user info...
+	- Does the user need to login and out of system for use or can we just store info when a campatability search in done to speed up process
+		- Possible to give user option to make account or just to use as guest and store info from search
+
+- Provide the prospective student an easy to understand assessment of the number of transferable credits, and the number of courses/credits they will need to complete the Marist degree
+
+- Allow Perspective students to request someone to contact them with more information
+
+- Allow Prospective students to save the courses they have entered/selected, so they do not need to start from the beginning if they close their browser
+
+- Allow us to update the program requirements for each major
+
+- Allow us to update course equivalencies when needed
+
+- Allow us to promote this platform to our two-year college partners, their transfer services staff, and their students
